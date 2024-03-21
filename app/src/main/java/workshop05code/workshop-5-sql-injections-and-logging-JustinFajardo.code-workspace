@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "[MQ2024COMP3310/workshop-5-sql-injections-and-logging-JustinFajardo source archive]",
+			"uri": "codeql-zip-archive://1-192/c:\\Users\\justi\\AppData\\Roaming\\Code\\User\\workspaceStorage\\3ff4cc8fd0132a9d65c05a329a3e155d\\GitHub.vscode-codeql\\mq2024comp3310-workshop-5-sql-injections-and-logging-justinfajardo\\java\\src.zip"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
